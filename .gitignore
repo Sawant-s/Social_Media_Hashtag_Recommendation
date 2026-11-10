@@ -1,0 +1,8 @@
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Editor settings
+.vscode/
